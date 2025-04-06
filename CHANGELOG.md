@@ -2,15 +2,21 @@ ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Unreleased
+## v3.0.2 - 2025-04-06
 
 - Changes:
 
+  - Adopted by FirstPersonKSP org
   - add NEEDS clauses around configs that require FAR so they don't emit errors when FAR isn't installed
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# v3.0.1 - 2023-04-13
+# Below are changes from StoneBlue's adoption
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## v3.0.1 - 2023-04-13
 
 - Changes:
 
@@ -23,7 +29,8 @@ ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# v3.0.0 - 2023-02-11
+
+## v3.0.0 - 2023-02-11
 
 - Changes:
 
@@ -34,7 +41,8 @@ ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# v2.9.0 - 2023-02-07
+
+## v2.9.0 - 2023-02-07
 
 Initial adoption Release by Stone Blue
 Since this is an initial adoption release, NO changes are made to the content, OTHER than those listed below.
@@ -52,11 +60,12 @@ Once changes to actual mod content start, versioning will go to v3.0.x
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-*****  Below is original changelog from alexustas' last v2.1 release ****
+# Below is original changelog from alexustas' last v2.1 release
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# v2.1 - 26/11/2017
+
+## v2.1 - 26/11/2017
 
 - Changes:
 
@@ -65,7 +74,8 @@ Once changes to actual mod content start, versioning will go to v3.0.x
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# v2.0 - 09/02-2017
+
+## v2.0 - 09/02-2017
 
 - Changes:
 
