@@ -1,10 +1,16 @@
-
 ASET Consolidated Avionics Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-04-13
 
-v3.0.1
+# Unreleased
+
+- Changes:
+
+  - add NEEDS clauses around configs that require FAR so they don't emit errors when FAR isn't installed
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+# v3.0.1 - 2023-04-13
 
 - Changes:
 
@@ -16,9 +22,8 @@ v3.0.1
   - fix copy/paste error, leaving incorrect, open PROP node & name in ASET_B-Knob_LD-CP_LEFT.cfg
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-02-11
 
-v3.0.0
+# v3.0.0 - 2023-02-11
 
 - Changes:
 
@@ -28,9 +33,8 @@ v3.0.0
   - Released on SpaceDock & CKAN
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-2023-02-07
 
-v2.9.0
+# v2.9.0 - 2023-02-07
 
 Initial adoption Release by Stone Blue
 Since this is an initial adoption release, NO changes are made to the content, OTHER than those listed below.
@@ -52,9 +56,7 @@ Once changes to actual mod content start, versioning will go to v3.0.x
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-26/11/2017
-
-ASET Avionics - V 2.1
+# v2.1 - 26/11/2017
 
 - Changes:
 
@@ -63,9 +65,7 @@ ASET Avionics - V 2.1
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-09/02-2017
-
-ASET Avionics - V 2.0
+# v2.0 - 09/02-2017
 
 - Changes:
 
@@ -96,4 +96,3 @@ ASET Avionics - V 2.0
       - Network of nav facilities covering the surface of Kerbin
       - ILS complex for the KSC Airfield
       - Kerbin Aerocharts
-
