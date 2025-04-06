@@ -1,13 +1,13 @@
 {
 	"NAME": "ASET Consolidated Avionics Pack",
-	"URL": "https://raw.githubusercontent.com/StoneBlue/ASET-Consolidated-Avionics/main/GameData/ASET/ASET_Avionics/ASET_Avionics.version",
+	"URL": "https://raw.githubusercontent.com/FirstPersonKSP/ASET_Avionics/main/GameData/ASET/ASET_Avionics/ASET_Avionics.version",
 	"DOWNLOAD": "https://spacedock.info/mod/3239/ASET%20Consolidated%20Avionics%20Pack",
 
 	"VERSION":
 	{
 		"MAJOR": 3,
 		"MINOR": 0,
-		"PATCH": 1,
+		"PATCH": 2
 
 	},
 	"KSP_VERSION_MIN":
